@@ -1,0 +1,10 @@
+import 'bootstrap/dist/css/bootstrap.css'
+import 'font-awesome/css/font-awesome.css'
+import 'ionicons/css/ionicons.css'
+import 'admin-lte/dist/css/AdminLTE.css'
+import 'admin-lte/dist/css/skins/_all-skins.css'
+
+import 'jquery/src/jquery'
+import 'bootstrap/dist/js/bootstrap'
+import 'admin-lte/dist/js/adminlte'
+import 'admin-lte/dist/js/demo'
